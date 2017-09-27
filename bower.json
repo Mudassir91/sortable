@@ -1,0 +1,21 @@
+{
+  "name": "sortable",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Mudassir91 <mudassir.hussain@accionlabs.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Mudassir91/sortable",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-mocks": "~1.5.0"
+  }
+}
